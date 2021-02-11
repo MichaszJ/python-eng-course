@@ -3,4 +3,9 @@ This is a free course/resource targeted towards undergraduate engineering studen
 
 The information will be found in various Jupyter Notebooks organized into specific topics.
 
-For reference the creator of this resource is in aerospace engineering so the utility other disciplines may gain will vary, however generally the content found in this resource will be tailored to be discipline agnostic. 
+For reference the creator of this resource is in aerospace engineering so the utility other disciplines may gain will vary, however generally the content found in this resource will be tailored to be discipline agnostic.
+
+Planned topics to be covered:
+- 1 - Basics of Python
+- 2 - List Comprehension
+- 3 - Making Plots with Matplotlib
